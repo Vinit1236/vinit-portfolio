@@ -5,7 +5,7 @@
 
 ## Built With
 
-My personal portfolio which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio which features some of my resume technical skills.<br/>
 
 This project was built using these technologies.
 
@@ -22,6 +22,11 @@ This project was built using these technologies.
 **🎨 Styled with React-Bootstrap and Css with easy to customize colors**
 
 **📱 Fully Responsive**
+
+## Hosted on the link
+
+Please check my portfolio website which hosted using netlify:
+https://vinit-pundeer-portfolio.netlify.app/
 
 ## Getting Started
 
