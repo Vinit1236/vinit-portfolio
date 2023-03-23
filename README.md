@@ -5,7 +5,7 @@
 
 ## Built With
 
-My personal portfolio which features some of my resume technical skills.<br/>
+Here is my personal portfolio which features some of my resume technical skills.<br/>
 
 This project was built using these technologies.
 
