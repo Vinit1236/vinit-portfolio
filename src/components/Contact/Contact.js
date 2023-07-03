@@ -1,7 +1,12 @@
 import React, { useState } from "react";
-// import emailjs from "emailjs-com";
-import emailjs from '@emailjs/browser';
+import emailjs from "emailjs-com";
+// import emailjs from '@emailjs/browser';
 import "./Contact.css";
+
+const ContactForm = () => {
+  const [name, setName] = useState("");
+  const [email, setEmail] = useState("");
+  const [message, setMessage] = useState("");
 
 const ContactForm = () => {
   const [name, setName] = useState("");
@@ -15,7 +20,7 @@ const ContactForm = () => {
         "service_o4ofekg",
         "template_elc7m8p",
         e.target,
-        "EVy-bULbUbLPPp6pe"
+        "A8T022W09LxlnXalO"
       )
       .then(
         (result) => {
@@ -33,9 +38,9 @@ const ContactForm = () => {
           alert("There is some error⚡");
         }
       );
-     e.target.reset();
+    e.target.reset();
   };
-
+  
   return (
     <div className="contact-form-container">
       <form onSubmit={handleSubmit}>
