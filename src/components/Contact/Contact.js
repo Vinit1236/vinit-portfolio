@@ -27,6 +27,9 @@ const ContactForm = () => {
         },
         (error) => {
           console.log(error.text);
+          setName("");
+          setEmail("");
+          setMessage("");
           alert("There is some error⚡");
         }
       );
