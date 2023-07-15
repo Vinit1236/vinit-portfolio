@@ -7,12 +7,10 @@
 
 Here is my personal portfolio which features some of my resume technical skills.<br/>
 
-This project was built using these technologies.
-
+This project was built using these technologies:
 - React.js
 - Node.js
 - Bootstrap
-- CSS3
 - VsCode
 
 ## Features
