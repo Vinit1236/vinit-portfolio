@@ -6,7 +6,7 @@
 ## Built With
 
 Here is my personal portfolio which features some of my resume technical skills.<br/>
-https://vinit-portfolio-one.vercel.app/
+https://vinit-portfolio-one.vercel.app/ <br/>
 This project was built using these technologies:
 - React.js
 - Node.js
