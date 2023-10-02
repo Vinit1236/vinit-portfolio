@@ -13,14 +13,15 @@ function AboutCard() {
             <br />I am a student pursuing B.Tech in Computer Science & Engineering from AKGEC Ghaziabad.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from coding and development, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games like Badminton
+              <ImPointRight /> 
+              Listening music in free time
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> little bit Travelling
             </li>
           </ul>
 
