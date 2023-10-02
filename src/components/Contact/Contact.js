@@ -8,11 +8,6 @@ const ContactForm = () => {
   const [email, setEmail] = useState("");
   const [message, setMessage] = useState("");
 
-const ContactForm = () => {
-  const [name, setName] = useState("");
-  const [email, setEmail] = useState("");
-  const [message, setMessage] = useState("");
-
   const handleSubmit = (e) => {
     e.preventDefault();
     emailjs
@@ -28,7 +23,7 @@ const ContactForm = () => {
           setName("");
           setEmail("");
           setMessage("");
-          alert("Your Message sent Successfully!!😊");
+          alert("Your Message sent Successfully!!😊. Get back to you soon...");
         },
         (error) => {
           console.log(error.text);
@@ -40,7 +35,7 @@ const ContactForm = () => {
       );
     e.target.reset();
   };
-  
+
   return (
     <div className="contact-form-container">
       <form onSubmit={handleSubmit}>
