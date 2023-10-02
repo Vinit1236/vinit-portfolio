@@ -6,7 +6,7 @@
 ## Built With
 
 Here is my personal portfolio which features some of my resume technical skills.<br/>
-
+https://vinit-portfolio-one.vercel.app/
 This project was built using these technologies:
 - React.js
 - Node.js
@@ -22,9 +22,8 @@ This project was built using these technologies:
 **📱 Fully Responsive**
 
 ## Hosted on the link
-
-Please check my portfolio website which hosted using netlify:
-https://vinit-pundeer-portfolio.netlify.app/
+Please check my portfolio website which hosted using vercel:
+https://vinit-portfolio-one.vercel.app/
 
 ## Getting Started
 
